@@ -5,6 +5,7 @@
     width: 1000px;
     background-color: aqua;
     justify-content:space-around;
+    align-items: center;
 }
 .item{
     height: 100px;
