@@ -1,0 +1,21 @@
+.container{
+    display: grid;
+    height: 500px;
+    width: 1000px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-areas: inherit;
+    
+
+
+}
+.item{
+    height: 100px;
+    width: 100px;
+    border:1px solid black ;
+    background-color: plum;
+    text-align: center;
+    align-content: center;
+
+}
