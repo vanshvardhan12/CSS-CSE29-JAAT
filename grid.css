@@ -6,6 +6,11 @@
     border: 2px solid black;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-areas: inherit;
+    column-gap: 10px;
+    row-gap: 10px;
+    justify-items: end;
+    align-items: center;
+    justify-content: space-around;
     
 
 
